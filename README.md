@@ -1,7 +1,3 @@
-# Not Lost
-
-This is the code for a walking/landscape/nature blog I occasionally write with my wife.
-
 ## Credits
 This software is based upon [Jeckyll Now](https://github.com/barryclark/jekyll-now), which is designed to make it easy to create a [Jekyll](https://github.com/jekyll/jekyll) blog by eliminating a lot of the up front setup ([Jeckyll Now Repository](https://github.com/barryclark/jekyll-now)).
 
